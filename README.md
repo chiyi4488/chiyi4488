@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 📫 How to reach me: https://yi-chi.cotpear.com/contact/
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyi4488&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chiyi4488&hide=html)
 
 <!--
 **chiyi4488/chiyi4488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
