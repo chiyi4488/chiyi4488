@@ -11,8 +11,9 @@ I am Yi Chi, a Taiwanese student (Chinese), a Christian, and I am managing a blo
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=chiyi4488&theme=flag-india" />
 </p>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiyi4488&count_private=true&theme=flag-india)](https://github.com/chiyi4488/github-readme-stats) -->
+![Christian Badge](https://user-images.githubusercontent.com/30853081/192114517-47c67541-d162-4808-aa01-6bb6336bbf55.jpg)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiyi4488&count_private=true&theme=flag-india)](https://github.com/chiyi4488/github-readme-stats) -->
 <!--
 **chiyi4488/chiyi4488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
