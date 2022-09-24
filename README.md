@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello! I am Yi Chi, a Taiwanese student (Chinese), a Christian, and I am managing a blog (Cotpear) and community due to my interest in technology. I am also passionate about software localization and translation, and I have been a contributor and reviewer in many projects.
+I am Yi Chi, a Taiwanese student (Chinese), a Christian, and I am managing a blog (Cotpear) and community due to my interest in technology. I am also passionate about software localization and translation, and I have been a contributor and reviewer in many projects.
 
 - 📫 How to reach me: https://yi-chi.cotpear.com/en/contact/
 - 🌠 Learn more about me: https://yi-chi.cotpear.com/en/
