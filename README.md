@@ -4,11 +4,13 @@ Hello! I am Yi Chi, a Taiwanese student (Chinese), a Christian, and I am managin
 - 📫 How to reach me: https://yi-chi.cotpear.com/en/contact/
 - 🌠 Learn more about me: https://yi-chi.cotpear.com/en/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyi4488&count_private=true&show_icons=true&theme=flag-india)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyi4488&count_private=true&show_icons=true&theme=flag-india&line_height=29)
 ![trophy](https://github-profile-trophy.vercel.app/?username=chiyi4488&row=2&column=3&margin-w=5)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chiyi4488)](https://git.io/streak-stats)
-
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=chiyi4488&theme=flag-india" />
+</p>
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiyi4488&count_private=true&theme=flag-india)](https://github.com/chiyi4488/github-readme-stats) -->
 
 <!--
