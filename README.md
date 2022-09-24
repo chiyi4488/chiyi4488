@@ -1,8 +1,12 @@
-### Hi there 👋
-- 📫 How to reach me: https://yi-chi.cotpear.com/contact/
+## Hi there 👋
+Hello! I am Yi Chi, a Taiwanese student (Chinese), a Christian, and I am managing a blog (Cotpear) and community due to my interest in technology. I am also passionate about software localization and translation, and I have been a contributor and reviewer in many projects.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyi4488&count_private=true&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chiyi4488&hide=html)
+- 📫 How to reach me: https://yi-chi.cotpear.com/en/contact/
+- 🌠 Learn more about me: https://yi-chi.cotpear.com/en/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyi4488&count_private=true&show_icons=true&theme=flag-india)](https://github.com/chiyi4488/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chiyi4488&count_private=true&theme=flag-india)](https://github.com/chiyi4488/github-readme-stats) -->
 
 <!--
 **chiyi4488/chiyi4488** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
