@@ -6,8 +6,8 @@ I am Yi Chi, a Taiwanese student (Chinese), a Christian, and I am managing a blo
 
 ![Christian Badge](https://user-images.githubusercontent.com/30853081/192114517-47c67541-d162-4808-aa01-6bb6336bbf55.jpg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyi4488&count_private=true&show_icons=true&theme=flag-india&line_height=29)
-![trophy](https://github-profile-trophy.vercel.app/?username=chiyi4488&row=2&column=3&margin-w=5)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chiyi4488&count_private=true&show_icons=true&theme=flag-india&line_height=34)
+![trophy](https://github-profile-trophy.vercel.app/?username=chiyi4488&row=2&column=3&margin-w=5&margin-h=5)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=chiyi4488&theme=flag-india" /></p>
 
